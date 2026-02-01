@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://github.com/nooob-developer/logo/blob/main/DopaLin/dopalin.svg" width="300" height="300">
@@ -38,7 +39,7 @@ Existing Linux monitoring tools are either outdated or lack features. DopaLin pr
 ## Screenshots
 
 ### Dark Theme
-![Dark Theme]()
+![Dark Theme](https://github.com/user-attachments/assets/a9b00685-9c94-45c5-8c68-6059d4fa4f5b)
 
 ### Purple Theme  
 ![Purple Theme]()
@@ -47,7 +48,8 @@ Existing Linux monitoring tools are either outdated or lack features. DopaLin pr
 ![Light Theme]()
 
 ### Video Demo
-![DopaLin Demo]()
+
+
 
 ## Development History
 
