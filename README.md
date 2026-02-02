@@ -39,17 +39,17 @@ Existing Linux monitoring tools are either outdated or lack features. DopaLin pr
 ## Screenshots
 
 ### Dark Theme
-![Dark Theme](https://github.com/user-attachments/assets/a9b00685-9c94-45c5-8c68-6059d4fa4f5b)
+![Dark Theme](https://github.com/user-attachments/assets/3e93f603-d561-41a5-96de-08e01e7d6260)
 
 ### Purple Theme  
-![Purple Theme]()
+**Soon**
 
 ### Light Theme
-![Light Theme]()
+**Soon**
 
 ### Video Demo
 
-
+https://github.com/user-attachments/assets/80295736-e5d4-45db-82e7-1269ac42724c
 
 ## Development History
 
